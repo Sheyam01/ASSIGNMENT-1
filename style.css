@@ -71,11 +71,15 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
-    padding: 50px;
+    padding-top: 60px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 5px;
+    margin-left:2% ;
+    margin-right: 2%;
 }
 .text{
     text-align: center;
-    text-decoration-line: underline;
 
 }
 .food-width{
@@ -94,4 +98,23 @@ h1{
 }
 .image{
     border-radius: 10px;
+}
+#visiting{
+    height: 200px;
+    background-image: url(m.image/back.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px 0px 0px 0px;
+}
+.text-alline{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding:50px 20px 20px 20px;
+}
+.last-text{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    
 }
